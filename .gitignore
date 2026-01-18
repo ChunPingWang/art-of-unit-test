@@ -1,0 +1,20 @@
+#OS junk files
+[Tt]humbs.db
+*.DS_Store
+
+#Visual Studio files
+[Oo]bj
+[Bb]in
+*.cache
+*.user
+*.suo
+TestResults
+*.[Cc]ache
+*.bak
+*.cache
+*.ncb
+*.log 
+*.DS_Store
+[Tt]humbs.db 
+_ReSharper.*
+*.resharper
